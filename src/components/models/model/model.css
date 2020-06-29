@@ -1,0 +1,15 @@
+.Model{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.name {
+    background:linear-gradient(rgb(48, 118, 133), rgb(10, 192, 233)) ;
+    border-radius: 5px;
+    margin: 5px;
+}

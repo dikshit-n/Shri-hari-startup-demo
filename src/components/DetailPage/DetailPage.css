@@ -1,0 +1,18 @@
+.DetailPage a{
+    color: blue;
+    text-decoration: none;
+    width: fit-content;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.DetailPage a:focus,
+.DetailPage a:active,
+.DetailPage a:visited{
+    background-color: rgb(164, 164, 231);
+}
