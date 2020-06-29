@@ -51,7 +51,7 @@ const Models = props => {
     }
     return (
         <React.Fragment>
-            <Header Heading="Our Modals" />
+            <Header Heading="Our Models" />
             {output}
         </React.Fragment>
     )
